@@ -1,6 +1,6 @@
-# React Redux Boilerplate `Version 0.0.1`
+# React Redux Todo Example `Version 0.0.1`
 
-React Redux Boilerplate
+React Redux Todo Example
 
 ## Running the application
 

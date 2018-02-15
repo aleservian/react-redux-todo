@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-boilerplate",
+  "name": "react-redux-todo",
   "version": "0.0.1",
-  "description": "Pattern project for react redux",
+  "description": "React Redux Todo Example",
   "author": "alexandre servian <alexandreservian@gmail.com>",
   "license": "ISC",
   "homepage": "https://bitbucket.org/aleservian/react-redux-boilerplate#readme",
